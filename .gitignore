@@ -1,0 +1,4 @@
+.idea/
+configs/
+database/sqlite/
+__pycache__/
